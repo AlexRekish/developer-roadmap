@@ -8,18 +8,18 @@ This file contains the frontend roadmap translated in the checklist form to make
 
 First thing that you would want to do is learn the basics which includes learning the basics of HTML, CSS and some familiarization with JavaScript syntax. 
 
-+ [ ] Learn the basics of HTML
-  - [ ] Learn the basics and how to write semantic HTML
-  - [ ] Understand how to divide page into sections and to structure the DOM properly
-  - [ ] **Task** Make at least 5 HTML pages – focus on structure, don't worry about the *beauty* yet
+- [ ] Learn the basics of HTML
+  - [X] Learn the basics and how to write semantic HTML
+  - [X] Understand how to divide page into sections and to structure the DOM properly
+  - [X] **Task** Make at least 5 HTML pages – focus on structure, don't worry about the *beauty* yet
 - [ ] Learn the basics of CSS
-  - [ ] Learn the basics of CSS
-  - [ ] Learn how to use Grid and Flexbox
-  - [ ] Media queries and how to make responsive websites
-  - [ ] Understand CSS Specificity, Box-Model etc
-  - [ ] **Task** Style the HTML pages that you made in last step
+  - [X] Learn the basics of CSS
+  - [X] Learn how to use Grid and Flexbox
+  - [X] Media queries and how to make responsive websites
+  - [X] Understand CSS Specificity, Box-Model etc
+  - [X] **Task** Style the HTML pages that you made in last step
 - [ ] Basics of JavaScript
-  - [ ] Learn the syntax and the basic constructs
+  - [X] Learn the syntax and the basic constructs
   - [ ] Learn how to manipulate DOM
   - [ ] Understand the concepts such as hoisting, event bubbling, prototypes etc
   - [ ] Learn Ajax (XHR)
