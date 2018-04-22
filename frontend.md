@@ -87,7 +87,7 @@ These are the tools that help you in bundling, building and development of your 
 There used to be alot of stuff in the task runners but today I would just pick NPM scripts, however if you want to pick something else, have a look at gulp
 
 - [ ] **NPM Scripts (Recommended)**
-- [ ] Gulp
+- [X] Gulp
 
 There are several linters, but I would go for ESLint. Feel free to have a look at others and see why one over the other
 
