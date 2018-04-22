@@ -47,7 +47,7 @@ Link this repo and tell them you are learning and ask for feedback on your PR an
 
 NPM and Yarn both are almost same in usage; you can learn one of them and you automatically learn the other.
 
-- [ ] Learn how to use NPM
+- [X] Learn how to use NPM
 - [ ] Learn how to use Yarn
 - [ ] Understand Semantic Versioning
 - [ ] **Task** Install some external library using yarn or npm into the webpages that you made previously
@@ -57,8 +57,8 @@ NPM and Yarn both are almost same in usage; you can learn one of them and you au
 Preprocessors enrich CSS with the functionality that it isn’t capable of by default. There are different many options Sass, Less, Stylus etc. If I were to pick one, I would go for Sass. However, PostCSS has been gaining a lot of traction lately, it is a nice-to-have and is sort of “Babel” for CSS. You can use it stand-alone or on top of Sass also. I would recommend you to learn Sass for now and revisit PostCSS later when you have time.
 
 - [ ] Pick one of these
-  - [ ] **Sass (Recommended)**
-  - [ ] Less
+  - [X] **Sass (Recommended)**
+  - [X] Less
   - [ ] **PostCSS (do this later)**
   - [ ] Stylus
 
@@ -66,7 +66,7 @@ Preprocessors enrich CSS with the functionality that it isn’t capable of by de
 
 This used to be way up in the chart, but I moved it down below as they aren't really needed any more and can be mastered without much effort. If you would want to pick any, there is one under every rock. The ones that I liked the most among the ones that I tried are Bootstrap, Materialize and Bulma. But if you look at their demand in market I would pick Bootstrap if I was starting today.
 
-- [ ] **Bootstrap (Recommended)**
+- [X] **Bootstrap (Recommended)**
 - [ ] Materialize CSS
 - [ ] Bulma
 
@@ -74,7 +74,7 @@ This used to be way up in the chart, but I moved it down below as they aren't re
 
 As your applications grow, CSS start to become messy and unmaintainable. There are multiple ways to structure your CSS better for scalability
 
-- [ ] **BEM – Recommended**
+- [X] **BEM – Recommended**
 - [ ] OOCSS
 - [ ] SMACSS
 - [ ] SUITCSS
