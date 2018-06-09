@@ -23,7 +23,7 @@ First thing that you would want to do is learn the basics which includes learnin
   - [X] Learn how to manipulate DOM
   - [X] Understand the concepts such as hoisting, event bubbling, prototypes etc
   - [ ] Learn Ajax (XHR)
-  - [ ] Learn new features in ES6+ and how to write modular JavaScript
+  - [X] Learn new features in ES6+ and how to write modular JavaScript
 - [ ] Learn jQuery – **Optional (you can leave it for now and revisit later)**
 
 ## Step 2 – Practice what you have learnt!
