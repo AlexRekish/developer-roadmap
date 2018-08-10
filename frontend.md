@@ -22,7 +22,7 @@ First thing that you would want to do is learn the basics which includes learnin
   - [X] Learn the syntax and the basic constructs
   - [X] Learn how to manipulate DOM
   - [X] Understand the concepts such as hoisting, event bubbling, prototypes etc
-  - [ ] Learn Ajax (XHR)
+  - [X] Learn Ajax (XHR)
   - [X] Learn new features in ES6+ and how to write modular JavaScript
 - [ ] Learn jQuery – **Optional (you can leave it for now and revisit later)**
 
@@ -49,8 +49,8 @@ NPM and Yarn both are almost same in usage; you can learn one of them and you au
 
 - [X] Learn how to use NPM
 - [ ] Learn how to use Yarn
-- [ ] Understand Semantic Versioning
-- [ ] **Task** Install some external library using yarn or npm into the webpages that you made previously
+- [X] Understand Semantic Versioning
+- [X] **Task** Install some external library using yarn or npm into the webpages that you made previously
 
 ## Step 5 – Learn CSS Preprocessors
 
@@ -91,14 +91,14 @@ There used to be alot of stuff in the task runners but today I would just pick N
 
 There are several linters, but I would go for ESLint. Feel free to have a look at others and see why one over the other
 
-- [ ] **ESLint (Recommended)**
+- [X] **ESLint (Recommended)**
 - [ ] JSLint
 - [ ] JSHint
 - [ ] JSCS
 
 **Use Webpack for apps and Rollup for libraries**. However, you don't need rollup for now; everything that it does, you can do it with Webpack also, so go for Webpack and look into Rollup later
 
-- [ ] **Webpack (Recommended)**
+- [X] **Webpack (Recommended)**
 - [ ] Rollup
 - [ ] Parcel
 
@@ -106,16 +106,16 @@ There are several linters, but I would go for ESLint. Feel free to have a look a
 
 Go to Github and Have a look at the source code of libraries that people have made, pick an idea and make some library with the below listed requirements
 
-- [ ] It should use Sass for styling
-- [ ] It should be written in ES6
-- [ ] It should be a UMD library
-- [ ] It should be using Babel to allow usage in older browsers
+- [X] It should use Sass for styling
+- [X] It should be written in ES6
+- [X] It should be a UMD library
+- [X] It should be using Babel to allow usage in older browsers
 
 ## Step 10 – Learn any Framework
 
 There are several options, when it comes to frameworks. However, below listed frameworks are the ones that I would recommend. You can pick any of them, however if you ask me for the personal picks I would choose React or Angular. However, have a look at any of them and see what you like
 
-- [ ] **React**
+- [X] **React**
   - [ ] Redux - For large scale apps and can be used outside react also
   - [ ] Mobx - For smaller apps and can be used outside react also
 - [ ] **Angular (Important – Learn Angular 2+)**
@@ -138,7 +138,7 @@ There are lots and lots of different tools for different purposes. I mostly find
 
 Here is a really nice summary to get you started – [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 
-- [ ] **Jest**
+- [X] **Jest**
 - [ ] **Mocha**
 - [ ] **Protractor**
 - [ ] **Karma**
